@@ -1,0 +1,5 @@
+.idea/
+platforms/
+www/phonegap.js
+www/cordova.js
+plugins/
